@@ -1,0 +1,16 @@
+This repository is made to create a Cocktail app. 
+The app is written in Python.
+
+Goals
+The main purpose of the application is made to search and display data
+created by the program. The file(s) will grow with the 
+use of each and every user. The potential to create
+an entire book. A sample size will be given for proof
+of concept. 
+
+Not goals
+Pushing to the data created by initial size.
+The folder structure can grow to an exponential 
+degree. The program will grow depending on the 
+use of branches. The files can be reset with the 
+reinitialized start of the program. 
